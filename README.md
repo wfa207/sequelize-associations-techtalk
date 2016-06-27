@@ -1,1 +1,1 @@
-# sequelize-associations-techtalk
+# Tech Talk: Sequelize Associations
